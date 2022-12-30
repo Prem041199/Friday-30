@@ -17,6 +17,16 @@ public class Laptop {
 		System.out.println("No 1");
 
 	}
+	private void tamil() {
+		System.out.println("Tamilnadu speaks tamil");
+
+	}
+	private void english() {
+		System.out.println("All the country speaks English");
+	}
+	private void telugu() {
+		System.out.println("Telugu speaks in andhra and Telugana");
+	}
 	
 
 }
